@@ -8,10 +8,11 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kjy222)](https://github.com/ryo-ma/github-profile-trophy)
 
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=developerz">
 
 <!--
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=developerz)](https://solved.ac/developerz)
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=developerz">
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkjy222&count_bg=%23B47EC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![CodeForces Profile](https://cf.leed.at?id=kjy222)](https://codeforces.com/profile/kjy222)
 
