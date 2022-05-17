@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href = "https://api.gitofolio.com/portfolio/2298/2302"><img src = "https://api.gitofolio.com/portfoliocard/svg/2302?color=white" style="width:350px; height:auto; "/></a>
+
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kjy222&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjy222&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
