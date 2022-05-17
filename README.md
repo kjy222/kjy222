@@ -4,13 +4,16 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjy222&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=kjy222)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=developerz)](https://solved.ac/developerz)
-
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=developerz">
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkjy222&count_bg=%23B47EC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)-->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkjy222&count_bg=%23B47EC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![CodeForces Profile](https://cf.leed.at?id=kjy222)](https://codeforces.com/profile/kjy222)
+
+-->
 
 <!--
 **kjy222/kjy222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
